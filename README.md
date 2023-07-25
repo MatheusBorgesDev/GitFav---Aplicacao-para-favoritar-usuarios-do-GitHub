@@ -1,27 +1,29 @@
-# GitFav - Aplicação para favoritar usuários do GitHub (Introdução ao conceito de API)
+# GitFav
 
-> Projeto construído como desafio ao aluno durante as aulas da trilha Explorer da Rocketseat.
+## Application to bookmark GitHub users (Introduction to API concept)
 
-    O desafio era criar todo o HTML, CSS e JavaScript da aplicação a partir de um modelo do FIGMA, utilizando DOM e ES Modules (EcmaScript 6 - ES6) com foco nos conceitos: 
-    
-    👉 API (Application Programming Interface);
-    👉 SPA (Single Page Application);
-    👉 Orientação a objetos;
-    👉 Classes e heranças no JavaScript;
-    👉 JSON;
-    👉 JavaScript assíncrono;
-    👉 Promisses com async/await;
-    👉 Princípio da imutabilidade;
-    👉 Try, catch, throw.
-    
-    Reforçamos conhecimentos sobre HTML, CSS, JavaScript, DOM, node, eventos, refatoração de código, clean code, acessibilidade e separação do JS em módulos.
+> Project built during classes on the Explorer trail at Rocketseat educational institution.
+> 
+> The challenge was to create all the application's HTML, CSS and JavaScript from a FIGMA model, using DOM and ES Modules (EcmaScript 6 - ES6) focusing on the concepts:
+>
+> - API (Application Programming Interface);
+> - SPA (Single Page Application);
+> - Object orientation;
+> - Classes and inheritance in JavaScript;
+> - JSON;
+> - Asynchronous JavaScript;
+> - Promises with async/await;
+> - Principle of immutability;
+> - Try, catch, throw.
+>
+> Reinforcing knowledge about HTML, CSS, JavaScript, DOM, node, events, code refactoring, clean code, accessibility and JS modules.
 
 ![preview_1](./.github/preview_1.png)
 ![preview_2](./.github/preview_2.png)
 
-🔗 [Clique aqui para acessar](https://mbslash.github.io/GitFav---Aplicacao-para-favoritar-usuarios-do-GitHub/)
+🔗 [Click here to access](https://matheusborgesdev.github.io/GitFav---Aplicacao-para-favoritar-usuarios-do-GitHub/)
 
-## 💻 Tecnologias
+## 💻 Technologies
 
 - HTML
 - CSS
@@ -31,6 +33,6 @@
 - Git e Github
 - Figma
 
-## 📧 Contato
+## 📧 Contact
 
 matheusb.dev@gmail.com
