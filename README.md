@@ -2,9 +2,7 @@
 
 ## Application to bookmark GitHub users (Introduction to API concept)
 
-> Project built during classes on the Explorer trail at Rocketseat educational institution.
-> 
-> The challenge was to create all the application's HTML, CSS and JavaScript from a FIGMA model, using DOM and ES Modules (EcmaScript 6 - ES6) focusing on the concepts:
+> The project aimed create all the application's HTML, CSS and JavaScript from a FIGMA model, using DOM and ES Modules (EcmaScript 6 - ES6) focusing on the concepts:
 >
 > - API (Application Programming Interface);
 > - SPA (Single Page Application);
